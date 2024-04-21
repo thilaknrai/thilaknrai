@@ -14,8 +14,8 @@ I'm a tech-driven student with a passion for problem-solving and natural leaders
 
 ### 🛠 &nbsp;Tech Stack
 <p align="center">
-  <a href="https://skillicons.dev/icons?i=html,css,c,mysql,eclipse,firebase,vscode,java,android">
-    <img src="https://skillicons.dev/icons?i=html,css,c,mysql,eclipse,firebase,java,android" margin-right="20px">
+  <a href="https://skillicons.dev/icons?i=html,css,c,mysql,eclipse,firebase,vscode,java,vscode">
+    <img src="https://skillicons.dev/icons?i=html,css,c,mysql,eclipse,firebase,java,vscode" margin-right="20px">
   </a>
 </p>
 
