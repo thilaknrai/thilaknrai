@@ -10,8 +10,7 @@ I'm a tech-driven student with a passion for problem-solving and natural leaders
 
 🎓&nbsp;I'm currently pursuing a Bachelor's Degree in Computer Science at Sahyadri College of Engineering and Management.\
 ✍️ &nbsp;In my free time, I enjoy attending dance classes and indulging in painting.\
-✉️ &nbsp;You can email me at rainthilak@gmail.com. I'll try to respond as soon as possible!.
-
+✉️ &nbsp;You can email me at rainthilak@gmail.com.
 ### 🛠 &nbsp;Tech Stack
 <p align="center">
   <a href="https://skillicons.dev/icons?i=html,css,c,mysql,eclipse,firebase,vscode,java,vscode">
