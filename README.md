@@ -25,7 +25,7 @@ I'm a tech-driven student with a passion for problem-solving and natural leaders
 ### 📫 &nbsp; How to reach me:
 <p>
   <a href="https://www.linkedin.com/in/thilak-rai/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:rainthilak@gmail.com?subject=Olá%20Ananya"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:rainthilak@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ![bottom](https://github.com/thilaknrai/thilaknrai/assets/130270049/21d64f35-c7aa-42ef-a5c1-2ec4e496e962)
