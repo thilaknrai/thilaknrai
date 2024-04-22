@@ -13,18 +13,19 @@ I'm a tech-driven student with a passion for problem-solving and natural leaders
 ✉️ &nbsp;You can email me at rainthilak@gmail.com.
 ### 🛠 &nbsp;Tech Stack
 <p align="center">
-  <a href="https://skillicons.dev/icons?i=html,css,c,mysql,eclipse,firebase,vscode,java,vscode">
-    <img src="https://skillicons.dev/icons?i=html,css,c,mysql,eclipse,firebase,java,vscode" margin-right="20px">
+  <a href="https://skillicons.dev/icons?i=html,css,c,mysql,java,vscode,firebase,vscode,eclipse">
+    <img src="https://skillicons.dev/icons?i=html,css,c,mysql,java,vscode,firebase,vscode,eclipse" margin-right="20px">
   </a>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thilaknrai&show_icons=true&locale=en&layout=compact" alt="thilaknrai" /></p>
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilaknrai&layout=compact&show_icon=true&theme=algolia" alt="thilaknrai-langs"/></p>
 
 
 ### 📫 &nbsp; How to reach me:
 <p>
-  <a href="https://www.linkedin.com/in/thilak-rai/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:rainthilak@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/thilak-rai/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 ![bottom](https://github.com/thilaknrai/thilaknrai/assets/130270049/21d64f35-c7aa-42ef-a5c1-2ec4e496e962)
