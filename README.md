@@ -13,8 +13,8 @@ I'm a tech-driven student with a passion for problem-solving and natural leaders
 ✉️ &nbsp;You can email me at rainthilak@gmail.com.
 ### 🛠 &nbsp;Tech Stack
 <p align="center">
-  <a href="https://skillicons.dev/icons?i=html,css,c,mysql,java,vscode,firebase,vscode,eclipse">
-    <img src="https://skillicons.dev/icons?i=html,css,c,mysql,java,vscode,firebase,vscode,eclipse" margin-right="20px">
+  <a href="https://skillicons.dev/icons?i=html,css,c,mysql,java,vscode,firebase,eclipse">
+    <img src="https://skillicons.dev/icons?i=html,css,c,mysql,java,vscode,firebase,eclipse" margin-right="20px">
   </a>
 </p>
 
